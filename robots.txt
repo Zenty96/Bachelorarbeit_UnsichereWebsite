@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: html/success.html
+Disallow: html/adminpanel.html
